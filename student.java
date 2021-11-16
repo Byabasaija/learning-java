@@ -1,4 +1,4 @@
-public class hello {
+public class student {
  public static String name = "hello world";
 public static int x = 20;
  public static void sayHello() {
